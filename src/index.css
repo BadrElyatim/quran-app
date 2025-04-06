@@ -1,0 +1,36 @@
+.ham_wasl,
+.idgham_wo_ghunnah,
+.slnt,
+.idgham_ghunnah {
+  color: rgb(177, 177, 177);
+}
+
+.laam_shamsiyah {
+  color: orange;
+}
+
+.madda_normal {
+  color: rgb(255, 157, 234);
+}
+
+.madda_permissible {
+  color: orange;
+}
+
+.madda_necessary {
+  color: red;
+}
+
+.ghunnah,
+.ikhafa,
+.idgham_shafawi {
+  color: green;
+}
+
+.qalaqah {
+  color: rgb(0, 155, 155)
+}
+
+.madda_obligatory {
+  color: rgb(252, 104, 104);
+}
